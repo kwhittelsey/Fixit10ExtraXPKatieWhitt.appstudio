@@ -1,0 +1,4 @@
+Validation.onshow = function() {
+    modOutput.toggle();
+    modOutput.value = ("Name, Email, Phone Number, and Social Security Number");
+};
